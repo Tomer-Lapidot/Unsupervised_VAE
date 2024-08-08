@@ -19,3 +19,4 @@ Density of localizaton plots,
 ![]https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Localization_Density_UMAP.png
 
 Reconstruction plots
+![]https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Reconstruction_Plot.png
