@@ -13,10 +13,10 @@ Learding results:
 ResNet34 with 256 parameter latent space, training on 4X augmented 200,000 single cell images.
 
 Latent space UMAP,
-![]https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Localization_UMAP.png
+![](https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Localization_UMAP.png)
 
 Density of localizaton plots,
-![]https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Localization_Density_UMAP.png
+![](https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Localization_Density_UMAP.png)
 
 Reconstruction plots
-![]https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Reconstruction_Plot.png
+![](https://github.com/Tomer-Lapidot/Unsupervised_VAE/blob/main/Reconstruction_Plot.png)
